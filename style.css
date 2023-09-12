@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{text-align: center
+}
+figcaption{
+  text-align: center;
+  font-size: 14px;
+}
+
+img{ 
+  display: block;
+  text-align: center;
+}
+nav{
+  text-align: center;
+  Padding:10px
+  Background-color Jungle green;
+  display: block 0;
+  background-size: auto;
+  }
+  figcaption{
+  text-align: center;
+  font-size: 12px;
+}
+#featured-property{
+  width: 800px;
+  margin: 0;
+  text-align: centre;
+}
+#details div{
+  float: left;
+  width: 30%
+  
+}
+#details div{
+  background-color: gray;
+  text-align: centre;
+   width: 25%;
+   display: block;
+
+}
+h1 {color: red;}
